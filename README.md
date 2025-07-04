@@ -2,3 +2,4 @@
 git
 django framework
 database:sqlite
+python
